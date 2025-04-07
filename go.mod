@@ -1,4 +1,4 @@
-module mytime
+module github.com/gtlyy/mytime
 
 go 1.19
 
