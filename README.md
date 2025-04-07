@@ -5,4 +5,4 @@ Some time functions.
 go get github.com/gtlyy/mytime
 
 ## Licence
-GNU GENERAL PUBLIC LICENSE Version 3
+MIT License - see LICENSE for more details
